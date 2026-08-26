@@ -372,7 +372,7 @@ function App() {
             ))}
           </nav>
         <div className="flex items-center gap-4 text-sm font-bold text-slate-900">
-          <a href="#signin">Sign in</a>
+          <a href="#signin"></a>
           <Button>Start free trial</Button>
         </div>
       </header>
